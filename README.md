@@ -13,3 +13,8 @@
 - Intagram: @pedrohmaia7
 - Github: pedroHenriqueMaia
 - Linkedin: Pedro Maia
+## Conhecimentos e soft skills
+- Conhecimento em PHP, JavaScript, NestJs, GraphQL, CSS, Bootstrap.
+
+## Participação de eventos
+- Palestras e lives sobre programação, como, Palestra do Maujor, Rodrigo Branas, DevParaná, ... 
