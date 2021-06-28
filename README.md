@@ -8,3 +8,8 @@
 - Cursano pós-graduação WebDev 
 - Graduando em sistemas para internet - FAU (Ensino superior) 
 - Ensino Médio
+
+## Rede Sociais
+- Intagram: @pedrohmaia7
+- Github: pedroHenriqueMaia
+- Linkedin: Pedro Maia
